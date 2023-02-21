@@ -15,6 +15,6 @@ int main(void)
 			putchar(c);
 			c++;
 		}
-	putchar('gm');
+	putchar('\n');
 	return (0);
 }
