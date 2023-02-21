@@ -12,7 +12,7 @@ int main(void)
 	char d;
 
 	c = 'a';
-	d = 'g';
+	d = 'A';
 	while
 		(c <= 'z') {
 			putchar(c);
