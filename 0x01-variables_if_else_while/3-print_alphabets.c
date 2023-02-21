@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (sucess)
+ * Return: Always 0 (success)
 */
 
 int main(void)
@@ -14,16 +14,15 @@ int main(void)
 	c = 'a';
 	d = 'A';
 	while
-	       (c <= 'z') 
-{
+		(c <= 'z') {
 			putchar(c);
 			c++;
 		}
-	while (d <= 'Z') 
-{
-	        putchar(d);
-		d++;
-	}
+	while
+		(d <= 'Z') {
+			putchar(d);
+			d++;
+		}
 	putchar('\n');
 	return (0);
 }
