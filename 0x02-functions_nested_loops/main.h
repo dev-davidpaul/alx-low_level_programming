@@ -8,7 +8,7 @@ int _islover(int C);
 
 int _isalpha(int c);
 
-int print_sign(int_n);
+int print_sign(int n);
 
 int _abs(int);
 
