@@ -4,7 +4,7 @@ int print_alphabet(void);
 
 void print_alphabet_x10(void);
 
-int _islover(int C);
+int _islower(int C);
 
 int _isalpha(int c);
 
