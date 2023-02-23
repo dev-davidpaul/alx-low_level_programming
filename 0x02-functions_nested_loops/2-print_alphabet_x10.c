@@ -7,7 +7,7 @@
 void print_alphaber_x10(void)
 {
 	char c;
-	int 1 = 0;
+	int i = 0;
 
 	while (i <= 0)
 	{
