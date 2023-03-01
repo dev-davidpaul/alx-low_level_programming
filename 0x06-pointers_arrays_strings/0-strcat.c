@@ -1,5 +1,4 @@
 #define "main.h"
-#define <string.h>
 /**
  * _strcat -> this is a function strcat
  * @dest: first param
