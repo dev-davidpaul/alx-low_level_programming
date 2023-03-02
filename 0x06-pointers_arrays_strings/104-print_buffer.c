@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
 * print_buffer - prints buffer
 * @b: buffer
@@ -11,7 +12,7 @@ void print_buffer(char *b, int size)
 	int j;
 	int i;
 
-	if (size <= o)
+	if (size <= 0)
 	{
 		printf("\n");
 		return;
