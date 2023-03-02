@@ -4,13 +4,13 @@
  * @x: param x
  * Return: a string
 */
-cihar *leet(char *x)
+char *leet(char *x)
 {
 	int a = 0;
 	int b;
 	int l = 5;
 
-	char tr[5] = {'A', 'E' 'O' 'T', 'L'};
+	char tr[5] = {'A', 'E', 'T', 'L'};
 	char trw[5] = {'4', '3', '0', '7', '1'};
 
 	while (x[a])
