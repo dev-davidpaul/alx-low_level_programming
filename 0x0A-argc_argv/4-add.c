@@ -48,7 +48,7 @@ int main(int argc, char *argv[])
 		/*condition if one of the number contains symbols that are not digits*/
 		else
 		{
-			printf("error\n");
+			printf("Error\n");
 			return (1);
 		}
 		count++;
